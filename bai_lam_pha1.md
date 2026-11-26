@@ -2,7 +2,7 @@
 
 - **Họ tên:** 
 - **Lớp:**
-- **Link repository :**
+- **Link repository :** https://github.com/thanhchung2008/tc/blob/d5f6870c48dd08b00d0ee1d5f56f391d23109f7b/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
